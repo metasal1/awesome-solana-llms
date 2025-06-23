@@ -5,7 +5,7 @@ Please add your Solana LLMS.txt here
 | Name            | Link                              |
 |-----------------|-----------------------------------|
 | Helius          | https://www.helius.dev/llms.txt  |
-| Dialect         |                                   |
+| Dialect         | https://docs.dialect.to/llms.txt |
 | Solana          | https://solana.com/llms.txt      |
 | Solana Mobile   |                                   |
 | Anchor          |                                   |
