@@ -14,5 +14,6 @@ Please add your Solana LLMS.txt here
 | Solana App Kit  | https://docs.solanaappkit.com/llms-full.txt |
 | Privy           | https://docs.privy.io/llms-full.txt |
 | AllDomains      | https://alldomains.id/llms.txt   |
+| ElizaOS         | https://eliza.how/llms-full.txt   |
 
 If you don't know the format or how to LLMS, check out https://llmstxt.org/
