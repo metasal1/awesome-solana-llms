@@ -15,5 +15,6 @@ Please add your Solana LLMS.txt here
 | Privy           | https://docs.privy.io/llms-full.txt |
 | AllDomains      | https://alldomains.id/llms.txt   |
 | ElizaOS         | https://eliza.how/llms-full.txt   |
+| Arcium          | https://docs.arcium.com/llms-full.txt |
 
 If you don't know the format or how to LLMS, check out https://llmstxt.org/
